@@ -10,4 +10,8 @@ Credit Card Fraud Detection using Logistic Regression
   The Columns do not have physical significance directly visible since as per the source (Kaggle) , the data was compressed using Principle Component Analysis (PCA) in order to protect the privacy of the individuals while making a realistic secnario dataset availaible to public .
 
   ## Data Preprocessing and Visualisation:
-  
+  ![Screenshot 2025-05-31 230253](https://github.com/user-attachments/assets/488c9998-1197-471f-b428-ff1a5b9ccd8e)
+## CORRELATIONS
+![Screenshot 2025-05-31 230640](https://github.com/user-attachments/assets/e8b3db47-f36c-4bb1-accb-73df8399ae68)
+
+
